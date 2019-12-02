@@ -1,0 +1,7 @@
+sklearn 
+keras
+tqdm
+numpy
+keras_metrics
+tensorflow == 1.14.0
+scikit-image == 0.14.2
